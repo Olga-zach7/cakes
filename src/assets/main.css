@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Nunito&display=swap');
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: #ffe0e4;
+    font-size: 18px;
+    min-height: 100%;
+}
+
+.container {
+    min-height: calc(100vh - 120px)
+}
+
+.header, footer {
+    background-color: #fdbcc5;
+}

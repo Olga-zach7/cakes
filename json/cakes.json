@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "6499a2d94f205a0f602fdd75"
+  },
+  "title": "Бисквитный торт с клубникой",
+  "img": "cake1.jpg",
+  "price": "1500",
+  "weight": 1,
+  "description": "Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur."
+},
+{
+  "_id": {
+    "$oid": "6499af114f205a0f602fdd76"
+  },
+  "title": "Творожный торт с цветочным декором",
+  "img": "cake2.jpg",
+  "price": "2500",
+  "weight": 2,
+  "description": "Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur."
+},
+{
+  "_id": {
+    "$oid": "6499af424f205a0f602fdd77"
+  },
+  "title": "Вафельный торт с бабочками",
+  "img": "cake3.jpg",
+  "price": "1800",
+  "weight": 1,
+  "description": "Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur."
+},
+{
+  "_id": {
+    "$oid": "6499af4f4f205a0f602fdd78"
+  },
+  "title": "Шоколадный торт с декором из крема",
+  "img": "cake4.jpg",
+  "price": "3300",
+  "weight": 3,
+  "description": "Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur."
+},
+{
+  "_id": {
+    "$oid": "649a59f9453e840d38afa0ba"
+  },
+  "title": "Бенто торт с надписью",
+  "img": "cake5.jpg",
+  "price": "2500",
+  "weight": 3,
+  "description": "Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur."
+},
+{
+  "_id": {
+    "$oid": "649a5a0c453e840d38afa0bb"
+  },
+  "title": "Бисквитный торт с рисунком",
+  "img": "cake6.jpg",
+  "price": "3000",
+  "weight": 3,
+  "description": "Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur."
+},
+{
+  "_id": {
+    "$oid": "649a5a16453e840d38afa0bc"
+  },
+  "title": "Торт из шпината с малиной",
+  "img": "cake7.jpg",
+  "price": "2200",
+  "weight": 3,
+  "description": "Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur."
+},
+{
+  "_id": {
+    "$oid": "649a5a20453e840d38afa0bd"
+  },
+  "title": "Песочный бенто торт",
+  "img": "cake8.jpg",
+  "price": "1900",
+  "weight": 3,
+  "description": "Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur."
+}]
